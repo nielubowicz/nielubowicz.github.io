@@ -5,9 +5,9 @@ title: Fonts, Icons and some Magick!
 
 First, [Install ImageMagick](http://www.imagemagick.org/script/binary-releases.php) - a great tool for manipulating images and videos. After that, we can turn this 
 
-     convert -background none -fill blue -gravity center 
-       -pointsize 36 -font /System/Library/Fonts/AppleSDGothicNeo-Bold.otf 
-       caption:"Install ImageMagick\!"
+```convert -background none -fill blue -gravity center
+ -pointsize 36 -font /System/Library/Fonts/AppleSDGothicNeo-Bold.otf 
+ caption:"Install ImageMagick\!"```
 
 into this
 
@@ -18,10 +18,10 @@ I know, I know, it's not that fancy. If your Photoshop skills are up to snuff, t
 Enter Apple Fonts. With glyphs for almost every part of the Apple system, we've got a treasure trove on our hands.
 ![Apple System Font glyphs]({{ site.baseurl }}/images/applesystemfont.jpg)
 
-Using the code in the earlier example, we can swap out Apple\ Symbols.tff for AppleSDGothicNeo-Bold.otf and use the text representation of the glyph we want (say, the caduceus -- you know, the winged staff on the side of US ambulances) like so 
+Using the code in the earlier example, we can swap out `Apple Symbols.tff` for `AppleSDGothicNeo-Bold.otf` and use the text representation of the glyph we want (say, the caduceus -- you know, the winged staff on the side of US ambulances) like so 
 
-        convert -background none -fill blue -gravity center \
-   -pointsize 36 -font /System/Library/Fonts/Apple\ Symbols.tff \
+        convert -background none -fill blue -gravity center 
+   -pointsize 36 -font /System/Library/Fonts/Apple\ Symbols.tff 
    caption:"☤"
 
 to get ![Caduceus image from the Symbols Font]({{ site.baseurl }}/images/caduceus.png)
