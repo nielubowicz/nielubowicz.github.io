@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Fonts, Icons and some Magick!
+excerpt: "<p>First, <a href=http://www.imagemagick.org/script/binary-releases.php>Install ImageMagick</a> - a great tool for manipulating images and videos. After that, we can turn text and symbols into images. 
+<p>I know, I know, it's not that fancy. If your Photoshop skills are up to snuff, this tutorial will seem like baby games. But as an iOS developer with no Photoshop experience, I needed a way to make simple icons: play buttons, gears, and other things that I took for granted when I had a full-time designer on my team."
 ---
 
 First, [Install ImageMagick](http://www.imagemagick.org/script/binary-releases.php) - a great tool for manipulating images and videos. After that, we can turn this 
