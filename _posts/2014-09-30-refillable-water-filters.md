@@ -36,6 +36,7 @@ You'll need the following tools:
 * 	plastic or rubber stopper
 * 	funnel
 
+Using the exacto-knife, cut around the perforated hole in the center of the top. When you're finished, it should look something like this:
 
 [![The tools you need: a water filter with the top cut out, a stopper to plug the hole, and a funnel][2thumb]][2full]
 
