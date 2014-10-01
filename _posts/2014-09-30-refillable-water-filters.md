@@ -3,7 +3,7 @@ layout: post
 title: Refillable Water Filters
 
 excerpt: "
-Have you ever thrown away one of these <img src=http://nielubowicz.github.io/images/brita/1beginning_thumb.JPG> ?
+Have you ever thrown away one of these <img src=http://nielubowicz.github.io/images/brita/1beginning_thumb.jpg> ?
 "
 ---
 
@@ -15,13 +15,13 @@ Have you ever thrown away one of these <img src=http://nielubowicz.github.io/ima
 [6full]: {{ site.baseurl }}/images/brita/6corked.JPG "a used water filter"
 [7full]: {{ site.baseurl }}/images/brita/7final.JPG "a used water filter"
 
-[1thumb]: {{ site.baseurl }}/images/brita/1beginning_thumb.JPG "a used water filter"
-[2thumb]: {{ site.baseurl }}/images/brita/2assembly_thumb.JPG "a used water filter"
-[3thumb]: {{ site.baseurl }}/images/brita/3assembly_thumb.JPG "a used water filter"
-[4thumb]: {{ site.baseurl }}/images/brita/4carbon_thumb.JPG "a used water filter"
-[5thumb]: {{ site.baseurl }}/images/brita/5precorked_thumb.JPG "a used water filter"
-[6thumb]: {{ site.baseurl }}/images/brita/6corked_thumb.JPG "a used water filter"
-[7thumb]: {{ site.baseurl }}/images/brita/7final_thumb.JPG "a used water filter"
+[1thumb]: {{ site.baseurl }}/images/brita/1beginning_thumb.jpg "a used water filter"
+[2thumb]: {{ site.baseurl }}/images/brita/2assembly_thumb.jpg "a used water filter"
+[3thumb]: {{ site.baseurl }}/images/brita/3assembly_thumb.jpg "a used water filter"
+[4thumb]: {{ site.baseurl }}/images/brita/4carbon_thumb.jpg "a used water filter"
+[5thumb]: {{ site.baseurl }}/images/brita/5precorked_thumb.jpg "a used water filter"
+[6thumb]: {{ site.baseurl }}/images/brita/6corked_thumb.jpg "a used water filter"
+[7thumb]: {{ site.baseurl }}/images/brita/7final_thumb.jpg "a used water filter"
 
 I'm sure you've seen one of these:
 
