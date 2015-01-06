@@ -13,3 +13,7 @@ This blog is aimed at sharing ways to use technology (both new and old) that imp
 ### Contact me
 
 [nielubowicz@gmail.com](mailto:nielubowicz@gmail.com)
+
+### Disclaimer
+
+The views and opinions expressed herein are my own and do not necessarily represent the views and opinions of my employer, legal counsel, or parents.
