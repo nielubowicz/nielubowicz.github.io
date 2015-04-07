@@ -1,5 +1,5 @@
 ## My blog for now
-A fork of ([Jekyll Now](https://github.com/barryclark/jekyll-now))
+A place for learning. A fork of ([Jekyll Now](https://github.com/barryclark/jekyll-now))
 
 ## Credits
 
