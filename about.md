@@ -12,7 +12,7 @@ This blog is aimed at sharing ways to use technology (both new and old) that imp
 
 ### Contact me
 
-[nielubowicz@gmail.com](mailto:nielubowicz@gmail.com)
+[chris@nielubowi.cz](mailto:chris@nielubowi.cz)
 
 ### Disclaimer
 
